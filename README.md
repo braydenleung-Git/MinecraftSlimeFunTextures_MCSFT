@@ -1,4 +1,4 @@
-# MCSFT
+# [MCSFT](https://github.com/braydenleung-Git/MinecraftSlimeFunTextures_MCSFT)
 
 A simple Minecraft resource pack based on [Slimefun](https://github.com/Slimefun/Slimefun4) that works on 1.16 versions or above.
 This project is for personal usage only, and does not associated with Official [Slimefun](https://github.com/Slimefun/Slimefun4).
