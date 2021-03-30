@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./Slimefun/weapons/Grandmas Walking Stick/Grandmas_Walking_Stick",
-		"particle": "./Slimefun/weapons/Grandmas Walking Stick/Grandmas_Walking_Stick"
+		"0": "./SlimeFun/Weapons/Grandmas_Walking_Stick/Grandmas_Walking_Stick",
+		"particle": "./SlimeFun/Weapons/Grandmas_Walking_Stick/Grandmas_Walking_Stick"
 	},
 	"elements": [
 		{
