@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "Bandage/Bandage",
-		"particle": "Bandage/Bandage"
+		"0": "./bandage",
+		"particle": "./bandage"
 	},
 	"elements": [
 		{
