@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./magnesium_dust",
-		"particle": "./magnesium_dust"
+		"0": "./lead_dust",
+		"particle": "./lead_dust"
 	},
 	"elements": [
 		{
